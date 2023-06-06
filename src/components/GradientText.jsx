@@ -14,7 +14,7 @@ function GradientText() {
       <Text
         bgGradient={color}
         bgClip="text"
-        fontSize="6xl"
+        fontSize="2xl"
         fontWeight="extrabold"
       >
         This box's style will change based on the color mode.

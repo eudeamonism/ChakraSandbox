@@ -9,7 +9,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <NavBar />
-      <Box textAlign="center" fontSize="xl">
+      <Box textAlign="center">
         <Grid minH="100vh" p={3}>
           <VStack spacing={8}>
             <GradientText />
